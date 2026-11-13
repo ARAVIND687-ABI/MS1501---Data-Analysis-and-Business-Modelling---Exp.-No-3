@@ -1,4 +1,4 @@
-# Experiment 3: Regression Techniques in Business Data( Simple Linear Regression )
+# Experiment 3: Regression Techniques in Business Data(Simple Linear Regression)
 
 ##  Aim
 To implement Simple Linear Regression in Python to study and predict the relationship between two business-related variables.
